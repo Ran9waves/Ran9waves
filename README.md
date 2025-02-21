@@ -2,10 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=200&width=auto"/>
 
 
-## Hi there 👋
+## About me 👋
 
 ```yaml
-*name: Ran9waves
+*
+name: Ran9waves
 current_job: Cyber Security Engineer
 education:
   [
@@ -42,3 +43,10 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 <a href="https://www.linkedin.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+
+## Tools I Have Used 👋
+<p><p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/python-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/figma-original.svg" alt="php" width="45" height="45"/>
+</p> </p>

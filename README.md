@@ -50,4 +50,4 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/ran9waves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ran9waves/ran9waves/blob/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20WelcometoMyGithubProfile%100render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
 
 ## Hi there 👋
 

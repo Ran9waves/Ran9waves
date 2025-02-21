@@ -1,6 +1,4 @@
-<p align="cemter">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome! &animation=fadeIn&type=waving&color=gradient&height=200&width=auto"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?text=Welcome! &animation=fadeIn&type=waving&color=gradient&height=200&width=auto"/>
 
 
 ## Hi there 👋
@@ -19,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?section=footer &animation=faceIn&type=waving&color=gradient&height=300&width=auto)

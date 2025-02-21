@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-<img src="https://capsule-render.vercel.app/api?text=Welcome to my Github Profile!🕹️&animation=fadeIn&type=waving&color=gradient&height=300section=header&text=capsule%20render&fontSize=400"/>
+<img src="https://capsule-render.vercel.app/api?text=Welcome to my Github Profile!🕹️&animation=fadeIn&type=waving&color=gradient&height=300section=header&text=capsule%20render&fontSize=40"/>
 
 
 ## Hi there 👋

@@ -4,19 +4,41 @@
 
 ## Hi there 👋
 
-<!--
-**Ran9waves/Ran9waves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+*name: Ran9waves
+current_job: Cyber Security Engineer
+education:
+  [
+    "Bachelor in German Linguistics (German, Swedish, Dutch)",
+    "UX-UI designer bootcamp at IronHack",
+    "Degree in cyber security",
+    "Master's in Cyber Security and Privacy ",
+  ]
 
-Here are some ideas to get you started:
+fields_of_interests:
+  [
+    "Cyber Security",
+    "AI",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+    "Linux"
+  ]
+technical_background:
+  [
+    "UX-UI designer"
+    "Cyber Security Engineer",
+    "SecDevOps",
+    "Cloud",
+    "SOC",
+    "CIR"
+  ]
+  
+currently_learning: ["Python & AI"]
+2025 Goals: ["Create 1 coding challenge per week."]
+hobbies: ["Photography", "martial arts", "any sport related with water", "cooking", "cinema"] *
+```
 
-- 🔭 I’m currently working on cybersecurity
-- 🌱 I’m currently learning python and AI
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about whatever you want
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>

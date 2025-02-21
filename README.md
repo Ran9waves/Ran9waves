@@ -40,13 +40,12 @@ currently_learning: ["Python & AI"]
 hobbies: ["Photography", "martial arts", "any sport related with water", "cooking", "cinema"] *
 ```
 
-<a href="https://www.linkedin.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
 ## Tools I Have Used 👋
-<p><p align="left">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/python-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/figma-original.svg" alt="php" width="45" height="45"/>
-</p> </p>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+</p>

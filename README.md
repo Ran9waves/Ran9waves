@@ -38,10 +38,6 @@ technical_background:
 currently_learning: ["Python & AI"]
 2025 Goals: ["Create 1 coding challenge per week."]
 hobbies: ["Photography", "martial arts", "any sport related with water", "cooking", "cinema"] *
-Challenge 1: live crypto web scraper with python
-Link: https://medium.com/@ran9waves/challenge-1-scrape-live-crypto-prices-with-python-65655ce082ce
-Challenge 2: Building a github contribution snake-game-like animation
-Link: https://medium.com/@ran9waves/challenge-2-how-to-add-a-snake-game-like-animation-in-your-github-contributions-2603eca274a0
 ```
 
 

@@ -30,6 +30,10 @@ jobs:
       - name: Install dependencies
         run: |
           npm install canvas
+          
+      - name: Generate SVG and GIF
+        run: |
+          node your_script.js
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg

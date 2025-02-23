@@ -1,4 +1,4 @@
-name: generate animation
+name: generateanimation
 
 on:
   # run automatically every 24 hours
@@ -33,7 +33,7 @@ jobs:
           
       - name: Generate SVG and GIF
         run: |
-          node your_script.js
+          node generateanimation.js
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg

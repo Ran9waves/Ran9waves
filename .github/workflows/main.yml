@@ -22,15 +22,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
       - name: Install dependencies
-        run: |
-          npm install
-          npm install canvas
+        run: npm install
+        
+      - name: Run animation generation
+        run: npm run generateanimation
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg

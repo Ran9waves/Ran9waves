@@ -72,9 +72,9 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 - "SOC Analyst Learning Path" 
 ```
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1118765" style='border:none;'></iframe>
+## <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1118765">TryHackMe profile</a>
 
-### <a href="">HackTheBox profile</a>
+### HackTheBox profile
 ```yaml
 - "Linux Fundamentals"
 - "Windows Fundamentals"

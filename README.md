@@ -6,7 +6,6 @@
 In this list below, you will find the list of all the projects that I made during 2025 and also their corresponding Medium article explaining the logic behind their construction.
 
 ```yaml
-
 name: Ran9waves
 current_job: Cyber Security Engineer
 education:
@@ -22,8 +21,6 @@ fields_of_interests:
     "AI",
     "UI/UX",
     "Game Development",
-    "DevOps",
-    "Linux"
   ]
 technical_background:
   [
@@ -43,7 +40,7 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 
 
 
-## Tools I Have Used 👋
+## Tools I Have Used 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="bash" width="45" height="45"/>
@@ -56,3 +53,56 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 
 ![Snake animation](https://raw.githubusercontent.com/Ran9waves/Ran9waves/output/github-contribution-grid-snake-dark.svg)
 
+## CTF's
+```yaml
+- "Advent of Cyber 2022 - TryHackMe"
+- "Advent of Cyber 2023 - TryHackMe"
+- "Boss of the SOC 2022 - Splunk"
+- "Boss of the SOC 2023 - Splunk"
+- "AI Security Challenge - Wiz"
+- "The Big IAM Challenge - Wiz"
+- "Huntress Capture The Flag - Huntress"
+- "Microsoft Security Inmersion - CTF"
+```
+
+## Online courses
+
+### Letsdefend
+```yaml
+- "SOC Analyst Learning Path" 
+```
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1118765" style='border:none;'></iframe>
+
+### <a href="">HackTheBox profile</a>
+```yaml
+- "Linux Fundamentals"
+- "Windows Fundamentals"
+- "MacOs Fundamentals"
+- "Web Requests"
+- "JavaScript Deobfuscation"
+- "Introduction to Active Directory"
+- "Vulnerability Assessment"
+```
+
+### Zerotomastery
+```yaml
+- "Complete Python Developer 2025:  Zero to Mastery"
+- "AWS Certified Cloud Practitioner: Zero to Mastery"
+- "AI for beginners: Inside Large Language Models"
+- "AI Coding with Github Copilot"
+- "Artificial Intelligence in Cybersecurity"
+```
+### Other Learning
+```yaml
+- "Wiz Foundations - Wiz"
+- "AWS Cloud Practitioner - AWS (CERTIFICATE)"
+- "API Documentation Best Practices - APISec"
+- "API Security Fundamentals - APISec"
+- "Network Basics - Cisco"
+- "Python Essentials 1 - Cisco"
+- "Microsoft Security Inmersion - Microsoft"
+- "Scrum Master Certified - Scrum Alliance (CERTIFICATE)"
+- "Cribl Stream Fundamentals - Cribl"
+- "Certified in Cybersecurity - ISC2 (CERTIFICATE)"
+```

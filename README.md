@@ -74,7 +74,7 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 
 ## <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1118765">TryHackMe profile</a>
 
-### HackTheBox profile
+### HackTheBox modules
 ```yaml
 - "Linux Fundamentals"
 - "Windows Fundamentals"

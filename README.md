@@ -32,7 +32,7 @@ technical_background:
     "CIR"
   ]
 
-currently_learning: ["SOC and SIEM"]
+currently_learning: At the moment working to get CompTIA CySA+ certification. 
 hobbies: ["Photography", "martial arts", "any sport related with water", "cooking", "cinema"] *
 ```
 

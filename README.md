@@ -54,7 +54,9 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 
 ### Letsdefend
 ```yaml
-- "SOC Analyst Learning Path" 
+- "SOC Analyst Learning Path"
+- "Malware Analysis Skill Path"
+- "Programming for Cybersecurity" (learning it at the moment)
 ```
 
 ## <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1118765">TryHackMe profile</a>
@@ -77,6 +79,7 @@ hobbies: ["Photography", "martial arts", "any sport related with water", "cookin
 - "AI for beginners: Inside Large Language Models"
 - "AI Coding with Github Copilot"
 - "Artificial Intelligence in Cybersecurity"
+- "Complete UI/UX Product Design Bootcamp"
 ```
 ### Other Learning
 ```yaml
